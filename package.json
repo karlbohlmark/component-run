@@ -1,0 +1,15 @@
+{
+  "name": "component-run",
+  "version": "0.0.0",
+  "description": "Run component.io components in node",
+  "main": "index.js",
+  "scripts": {
+    "test": "make test"
+  },
+  "repository": "git@github.com:karlbohlmark/component-run.git",
+  "author": "Karl Böhlmark <karl.bohlmark@gmail.com>",
+  "license": "BSD",
+  "bin": {
+    "component-run": "index.js"
+  }
+}
